@@ -1,0 +1,16 @@
+{
+  "name": "WaitLineSimulate",
+  "version": "0.1.0",
+  "description": "Javascript wait line simulate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "queue",
+    "waitline",
+    "simulate"
+  ],
+  "author": "Richard Lee <lifuzu@gmail.com> (http://lifuzu.com)",
+  "license": "MIT"
+}
